@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/yanik-kumar-code-comment-banner.svg" width="100%">
+  <img src="./yanik-kumar-code-comment-banner.svg" width="100%">
 </div>
 
 <br>
